@@ -15,6 +15,10 @@ The summary statistics show that we have 1700 observations for June, and the ave
 
 
 ## December Temperature
-The summary statistics below show we have 1517 observations. The average temperature on Oahu Island during December is 71 °F, while the minimum is 56 and the maximum is 83 °F. The standard deviation is 3.7, while the first, second, and third quartiles are 71,74, and 74, respectively. The summary shows that each average temperature is equal to the second quartile. This tells us that Oahu's temperature throughout the year is predictable, and the variance is slight.
+The summary statistics below show we have 1517 observations. The average temperature on Oahu Island during December is 71 °F, while the minimum is 56 and the maximum is 83 °F. The standard deviation is 3.7, while the first, second, and third quartiles are 71,74, and 74, respectively. The summary shows that each average temperature is equal to the second quartile. This tells us that Oahu's temperature throughout the year is predictable, with slight variants.
 
 ![Dec Temp](https://user-images.githubusercontent.com/105765150/184143871-23204d29-b5ef-4975-a484-548bcae6b2f5.png)
+
+
+# Summary
+The result from June and December in the different seasons shows that the weather is very stable and has very low variation throughout the year. Based on our analysis, we strongly recommend our client invest in the Oahu surfing shop since the business can run all year long without significant negative weather impact. 
