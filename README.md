@@ -8,4 +8,4 @@ This project aims to analyze the weather before investing in a surfing shop on O
 
 ## Results
 
-### June Temperature
+## - June Temperature
