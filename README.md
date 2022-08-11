@@ -11,7 +11,7 @@ This project aims to analyze the weather before investing in a surfing shop on O
 ## June Temperature
 The summary statistics show that we have 1700 observations for June, and the average temperature is 74.94 °F. While the minimum is 64 °F and the maximum is 85 °F. The standard deviation is 3.2, while the first, second, and third quartiles are 73,75, and 77, respectively. The summary shows that the data is spread each temperature around the average mean.
 
-![June temp](https://user-images.githubusercontent.com/105765150/184142985-2024ca20-9115-44ea-8d84-6efccc5cb313.png)
+<img width="370" alt="June Temp" src="https://user-images.githubusercontent.com/105765150/184146122-630adca3-fde6-4f34-a978-87837857e055.png">
 
 
 ## December Temperature
